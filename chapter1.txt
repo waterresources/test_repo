@@ -1,1 +1,5 @@
-it was the best of times, it was the worst of times
+it was the bad of times, it was the worst of times
+
+here is some other stuff 
+
+python funchtions go herer
